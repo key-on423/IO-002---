@@ -1,0 +1,3 @@
+﻿  here.c
+C:\Users\35316\Desktop\.vs\zifu_IO 002\zifu_IO 002\here.c(301,10): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  zifu_IO 002.vcxproj -> C:\Users\35316\Desktop\.vs\zifu_IO 002\x64\Debug\zifu_IO 002.exe
